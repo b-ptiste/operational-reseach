@@ -15,6 +15,5 @@ We are given a method to build a branch-and-bound, this method is based on the S
 The goal of this project is to realize optimized versions for MIP and branch-and-bound. 
 Then we will propose an efficient and exhaustive visualization with Plotly. Then in a second time, to compare the performances of the two methods.
 
-![image](images/affichage_dynamique.png)
-![image](images/longest_path.png)
-![image](images/diag_gantt.jpg)
+![image](image/affichage_dynamique.png)
+![image](image/diag_gantt.jpg)
