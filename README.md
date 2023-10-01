@@ -12,7 +12,7 @@ It is possible to describe a branch-and-bound algorithm using mixed integer line
 Once the MIP is described, the solver will execute a branch-and-bound algorithm to solve it. 
 We are given a method to build a branch-and-bound, this method is based on the Schrage algorithm.
 
-The goal of this project is to realize optimized versions for MIP and branch-and-bound. Then in a second time, we compare the performances of the two methods.
+We realized optimized versions for MIP and branch-and-bound. Then in a second time, we compare the performances of the two methods.
 For the branch & bound we also study the effect of the way to proceed nodes : `depth first search`, `breadth first search` and `best first search`.
 
 Then we will propose an efficient and exhaustive visualization with Plotly. Each node contains its status, the current optimal value ...
